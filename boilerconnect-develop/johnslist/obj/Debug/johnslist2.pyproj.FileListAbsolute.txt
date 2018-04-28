@@ -1,0 +1,3 @@
+C:\Users\epics\Desktop\boilerconnect-develop\johnslist\obj\Debug\johnslist2.pyproj.CoreCompileInputs.cache
+C:\Users\epics\Desktop\boilerconnect-develop\johnslist\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\epics\Desktop\boilerconnect-develop\johnslist\bin\wfastcgi.py
